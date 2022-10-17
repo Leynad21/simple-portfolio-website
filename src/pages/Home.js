@@ -11,7 +11,7 @@ function Home() {
             <div className="about">
                 <h2> Hi, my name is Dany</h2>
                 <div className="prompt">
-                    <p>A all runner with a broad wisdom</p>
+                    <p>A all runner </p>
                     <Instagramicon />
                     <Twittericon  />
                     <Facebookicon />
